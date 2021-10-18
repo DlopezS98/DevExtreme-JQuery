@@ -1,0 +1,1272 @@
+[
+    {
+        "Week": "Week one",
+        "Days": [
+            {
+                "Date": "2021-10-14T00:00:00",
+                "CCVTotal": 1,
+                "CCVCompleted": 0,
+                "CCVMissed": 1,
+                "CorrectionsTotal": 10,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 10,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsMissed",
+                        "Value": "10",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - Juan Arell",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Paint trim above iron door\nTouch up on wall by door",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - LM Constru",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Tighten screws on top hinge in shower",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - Pounds Plu",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "MB shower head loose",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - Ronald Ter",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Repair trim above iron door",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - S & C Elec",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Replace porch fan . Only has one speed",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Geiger Hea",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Final Check up",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Home Decor",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Exposed screws on bottom cabinet RH side of dishwasher",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - J M Doors ",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Garage trim to short on RH side allowing water to get in",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Juan Arell",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Paint peeling on Master Bath entry jamb\n\nBack charge MYCO",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Pounds Plu",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Master faucet loose\nKitchen faucet loose\nHall showerhead loose",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsTotal",
+                        "Value": "10",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCareAnniversary",
+                        "Value": "001-AG-507-10:00 AM  - MC",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "1000",
+                        "Description": "",
+                        "TimeFormated": "10:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Geiger Hea: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Home Decor: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "J M Doors: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Juan Arell: 2",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "LM Constru: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Pounds Plu: 2",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Ronald Ter: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "S & C Elec: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-11T00:00:00",
+                "CCVTotal": 2,
+                "CCVCompleted": 0,
+                "CCVMissed": 2,
+                "CorrectionsTotal": 5,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 5,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "2",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "2",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsMissed",
+                        "Value": "5",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1018-12:00 PM  - MC - Gulf Devel",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "1200",
+                        "Description": "Replace dead tree with crape mertyl\nDrainage is wrong",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - *Elliott C",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Iron door stop",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - 84 Lumber ",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Back door not closing right",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - J & L Cons",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Check shingles on front of house",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - Sherwin Wi",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Replace scribe with 1/4 round at iron door",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsTotal",
+                        "Value": "5",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-CE-1003-01:00 PM  - MC",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0100",
+                        "Description": "Primary",
+                        "TimeFormated": "13:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-CE-1012-11:00 AM  - NONE",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "1100",
+                        "Description": "Primary",
+                        "TimeFormated": "11:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "*Elliott C: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "84 Lumber: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Gulf Devel: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1018-12:00 PM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "J & L Cons: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Sherwin Wi: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-13T00:00:00",
+                "CCVTotal": 2,
+                "CCVCompleted": 0,
+                "CCVMissed": 2,
+                "CorrectionsTotal": 0,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 0,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "2",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "2",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6003-10:00 AM  - NONE",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "Red",
+                        "Time": "1000",
+                        "Description": "Primary",
+                        "TimeFormated": "10:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6009-02:00 PM  - NONE",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "Red",
+                        "Time": "0200",
+                        "Description": "Primary",
+                        "TimeFormated": "14:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-15T00:00:00",
+                "CCVTotal": 5,
+                "CCVCompleted": 0,
+                "CCVMissed": 5,
+                "CorrectionsTotal": 0,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 0,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "5",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "5",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCareAnniversary",
+                        "Value": "400-AL-2087-09:00 AM  - MC",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "0900",
+                        "Description": "Anniversary",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-5002-02:00 PM  - NONE",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "0200",
+                        "Description": "Primary",
+                        "TimeFormated": "14:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6019-12:00 PM  - NONE",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "1200",
+                        "Description": "Primary",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6023-11:00 AM  - NONE",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "1100",
+                        "Description": "Primary",
+                        "TimeFormated": "11:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-12T00:00:00",
+                "CCVTotal": 0,
+                "CCVCompleted": 0,
+                "CCVMissed": 0,
+                "CorrectionsTotal": 3,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 3,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsMissed",
+                        "Value": "3",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4010-09:00 AM  - MC - Geiger Hea",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Final check\nFilter grill hard to latch",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4010-09:00 AM  - MC - S & C Elec",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Replace outlet beside fridge\nReplace GFI outlet RH of cooktop",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4010-09:00 AM  - MC - Sherwin Wi",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Listello replace light color stone",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsTotal",
+                        "Value": "3",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Geiger Hea: 1",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4010-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "S & C Elec: 1",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4010-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Sherwin Wi: 1",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4010-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    }
+                ]
+            }
+          ]
+    },
+    {
+        "Week": "Week Two",
+        "Days": [
+            {
+                "Date": "2021-10-14T00:00:00",
+                "CCVTotal": 1,
+                "CCVCompleted": 0,
+                "CCVMissed": 1,
+                "CorrectionsTotal": 10,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 10,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsMissed",
+                        "Value": "10",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - Juan Arell",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Paint trim above iron door\nTouch up on wall by door",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - LM Constru",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Tighten screws on top hinge in shower",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - Pounds Plu",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "MB shower head loose",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - Ronald Ter",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Repair trim above iron door",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4008-09:00 AM  - MC - S & C Elec",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Replace porch fan . Only has one speed",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Geiger Hea",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Final Check up",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Home Decor",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Exposed screws on bottom cabinet RH side of dishwasher",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - J M Doors ",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Garage trim to short on RH side allowing water to get in",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Juan Arell",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Paint peeling on Master Bath entry jamb\n\nBack charge MYCO",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4011-09:00 AM  - MC - Pounds Plu",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Master faucet loose\nKitchen faucet loose\nHall showerhead loose",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsTotal",
+                        "Value": "10",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCareAnniversary",
+                        "Value": "001-AG-507-10:00 AM  - MC",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Red",
+                        "Time": "1000",
+                        "Description": "",
+                        "TimeFormated": "10:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Geiger Hea: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Home Decor: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "J M Doors: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Juan Arell: 2",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "LM Constru: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Pounds Plu: 2",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n001-AG-4011-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Ronald Ter: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "S & C Elec: 1",
+                        "Date": "2021-10-14T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4008-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-11T00:00:00",
+                "CCVTotal": 2,
+                "CCVCompleted": 0,
+                "CCVMissed": 2,
+                "CorrectionsTotal": 5,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 5,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "2",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "2",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsMissed",
+                        "Value": "5",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1018-12:00 PM  - MC - Gulf Devel",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "1200",
+                        "Description": "Replace dead tree with crape mertyl\nDrainage is wrong",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - *Elliott C",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Iron door stop",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - 84 Lumber ",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Back door not closing right",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - J & L Cons",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Check shingles on front of house",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-CE-1020-09:00 AM  - NONE - Sherwin Wi",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Replace scribe with 1/4 round at iron door",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsTotal",
+                        "Value": "5",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-CE-1003-01:00 PM  - MC",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "0100",
+                        "Description": "Primary",
+                        "TimeFormated": "13:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-CE-1012-11:00 AM  - NONE",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Red",
+                        "Time": "1100",
+                        "Description": "Primary",
+                        "TimeFormated": "11:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "*Elliott C: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "84 Lumber: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Gulf Devel: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1018-12:00 PM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "J & L Cons: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Sherwin Wi: 1",
+                        "Date": "2021-10-11T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-CE-1020-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-13T00:00:00",
+                "CCVTotal": 2,
+                "CCVCompleted": 0,
+                "CCVMissed": 2,
+                "CorrectionsTotal": 0,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 0,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "2",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "2",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6003-10:00 AM  - NONE",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "Red",
+                        "Time": "1000",
+                        "Description": "Primary",
+                        "TimeFormated": "10:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6009-02:00 PM  - NONE",
+                        "Date": "2021-10-13T00:00:00",
+                        "Color": "Red",
+                        "Time": "0200",
+                        "Description": "Primary",
+                        "TimeFormated": "14:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-15T00:00:00",
+                "CCVTotal": 5,
+                "CCVCompleted": 0,
+                "CCVMissed": 5,
+                "CorrectionsTotal": 0,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 0,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVMissed",
+                        "Value": "5",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CCVTotal",
+                        "Value": "5",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCareAnniversary",
+                        "Value": "400-AL-2087-09:00 AM  - MC",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "0900",
+                        "Description": "Anniversary",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-5002-02:00 PM  - NONE",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "0200",
+                        "Description": "Primary",
+                        "TimeFormated": "14:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6019-12:00 PM  - NONE",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "1200",
+                        "Description": "Primary",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CustomerCarePrimary",
+                        "Value": "001-FG-6023-11:00 AM  - NONE",
+                        "Date": "2021-10-15T00:00:00",
+                        "Color": "Black",
+                        "Time": "1100",
+                        "Description": "Primary",
+                        "TimeFormated": "11:00:00"
+                    }
+                ]
+            },
+            {
+                "Date": "2021-10-12T00:00:00",
+                "CCVTotal": 0,
+                "CCVCompleted": 0,
+                "CCVMissed": 0,
+                "CorrectionsTotal": 3,
+                "CorrectionsCom": 0,
+                "CorrectionsMissed": 3,
+                "SoCompletion": 0,
+                "Warranties": [
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsMissed",
+                        "Value": "3",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4010-09:00 AM  - MC - Geiger Hea",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Final check\nFilter grill hard to latch",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4010-09:00 AM  - MC - S & C Elec",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Replace outlet beside fridge\nReplace GFI outlet RH of cooktop",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionSOs",
+                        "Value": "001-AG-4010-09:00 AM  - MC - Sherwin Wi",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Red",
+                        "Time": "0900",
+                        "Description": "Listello replace light color stone",
+                        "TimeFormated": "09:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "CorrectionsTotal",
+                        "Value": "3",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "",
+                        "Time": "",
+                        "Description": "",
+                        "TimeFormated": "00:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Geiger Hea: 1",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4010-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "S & C Elec: 1",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4010-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    },
+                    {
+                        "ID": "00000000-0000-0000-0000-000000000000",
+                        "Type": "VendorUsage",
+                        "Value": "Sherwin Wi: 1",
+                        "Date": "2021-10-12T00:00:00",
+                        "Color": "Black",
+                        "Time": "0000",
+                        "Description": "001-AG-4010-09:00 AM \n",
+                        "TimeFormated": "12:00:00"
+                    }
+                ]
+            }
+          ]
+    }
+]
